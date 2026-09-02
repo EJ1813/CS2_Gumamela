@@ -1,5 +1,4 @@
 # CS2_Gumamela
-Uploading Files to Github
 # Distance Between Two Points Calculator
 
 ## Description
