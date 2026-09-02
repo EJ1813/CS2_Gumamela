@@ -1,7 +1,6 @@
 import math
 
-# Ask the user to enter the coordinates of the first point
-# Ask the user to enter the coordinates of the second point
+# Ask the user to enter the coordinates of the first point and the second point
 point_x1 = float(input("Enter the x1: "))
 point_x2 = float(input("Enter the x2: "))
 point_y1 = float(input("Enter the y1: "))
