@@ -13,5 +13,5 @@ point_b = pow(point_y2-point_y1, 2)
 result = point_a + point_b
 distance = pow(result, 0.5)
 
-# Display the result rounded to two decimal places
+# Display the result
 print("The distance is", distance)
